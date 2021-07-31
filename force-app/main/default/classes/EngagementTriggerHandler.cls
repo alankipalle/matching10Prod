@@ -1,6 +1,6 @@
 /**
 * Engagement Trigger Handler for the Engagement object. This class extends the TriggerHandler
-* class to help ensure the trigger code is in one place and bulkified.  Changing
+* class to help ensure the trigger code is in one place and bulkified.  Changing this again
 */
 
 public class EngagementTriggerHandler extends TriggerHandler {
